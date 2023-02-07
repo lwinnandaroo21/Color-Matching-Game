@@ -1,0 +1,16 @@
+
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+
+}
+.card {
+    width: 150px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 20px;
+
+}
